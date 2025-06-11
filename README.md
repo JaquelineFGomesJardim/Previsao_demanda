@@ -1,5 +1,5 @@
 # Previsao_demanda
-Este projeto tem como objetivo desenvolver um modelo de previsão de demanda mensal para produtos de uma empresa de manufatura de alcance global. A partir de dados históricos de demanda em diferentes armazéns centrais, buscamos criar previsões confiáveis para o mês subsequente, auxiliando a empresa a otimizar seu planejamento logístico e de produção.
+Este projeto tem como objetivo desenvolver um modelo de previsão de demanda mensal para produtos de uma empresa de manufatura de alcance global. A partir de dados históricos de demanda em diferentes armazéns centrais, buscO criar previsões confiáveis para o mês subsequente, auxiliando a empresa a otimizar seu planejamento logístico e de produção.
 
 Contexto
 
